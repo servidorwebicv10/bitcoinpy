@@ -53,7 +53,7 @@ bitcoinpy/
 Clone the repository:
 
 ```bash
-git clone https://github.com/servidorwebicv10/bitcoinpy.git
+git clone https:(URL)
 cd bitcoinpy
 ```
 Install dependencies:
