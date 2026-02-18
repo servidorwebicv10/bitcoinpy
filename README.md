@@ -91,3 +91,11 @@ http://127.0.0.1:5000/
  - Deploy to cloud (Render, Railway, or Heroku)
 
  - Add user interaction filters
+
+---
+
+# Author
+
+Iván David Caro Vargas  
+Aspiring Full Stack Developer  
+
